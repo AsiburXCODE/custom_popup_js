@@ -11,7 +11,8 @@
     background-color: rgb(26, 87, 255);
     color: #fff;
     font-weight: bold;
-    padding: 5px 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
     border: none;
     cursor: pointer;
     margin: 20px 50px;
@@ -38,8 +39,10 @@
     border-radius: 10px;
 }
 
-.popup h1{
-    padding-bottom: 20px;
+.popup p{
+    padding: 10px 0px 20px 0px;
+    font-weight: lighter;
+    color: rgb(114, 115, 128);
 }
 
 .pop_btn{
@@ -47,10 +50,11 @@
     text-decoration: none;
     color: #fff;
     font-weight: bold;
-    padding: 5px 20px;
+    padding: 10px 20px;
     border: none;
     cursor: pointer;
     margin: 20px 50px;
+    border-radius: 20px;
 }
 
 .pop_btn:hover{
